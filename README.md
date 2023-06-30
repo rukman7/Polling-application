@@ -95,4 +95,4 @@ To get started with the Polling Application, follow these steps:
 
 ![create a poll](/static/images/create_polls.png)
 
-![view polls](/static/gifs/view_polls.png)
+![view polls](/static/images/view_polls.png)
