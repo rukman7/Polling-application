@@ -90,3 +90,9 @@ To get started with the Polling Application, follow these steps:
    ```
    
    The application should now be up and running. Click on the URL provided at the command line to visit the application. 
+
+## Screenshots
+
+![create a poll](/static/images/create_polls.png)
+
+![view polls](/static/gifs/view_polls.png)
